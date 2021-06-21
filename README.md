@@ -12,7 +12,8 @@ Within the jupyter notebook, all the necessary steps are established to initiali
 
 # Workflow of the proposed technique:
 
-![WORKFLOW](https://github.com/IvanGarcia7/SR-FT_ENHANCEMENT/blob/main/IMAGES/Proposal.png?raw=true “WORKFLOW”)
+![WORKFLOW](https://github.com/IvanGarcia7/SR-FT_ENHANCEMENT/blob/main/IMAGES/Proposal.png?raw=true)
+
 
 The Offline part is composed of the SR application, in addition to the generation of the dataset for Fine-Tuning. The Online part is composed of the detection performed by the retrained model.
 
