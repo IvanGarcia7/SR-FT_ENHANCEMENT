@@ -24,7 +24,7 @@ The Offline part is composed of the SR application, in addition to the generatio
 
 After downloading and loading the necessary models, we want to improve the detections on a given image as input, e.g. the Figure below:
 
-![INPUT IMAGE](https://github.com/IvanGarcia7/SR-FT_ENHANCEMENT/blob/main/IMAGES/Input.jpg?raw=true “INPUT IMAGE”)
+![INPUT IMAGE](https://github.com/IvanGarcia7/SR-FT_ENHANCEMENT/blob/main/IMAGES/Input.jpg?raw=true)
 
 Subsequently, it is necessary to execute the following function:
 
@@ -36,7 +36,7 @@ After performing the successive detections, an output image will be generated. U
 
 ## Output:
 
-![OUTPUT IMAGE](https://github.com/IvanGarcia7/SR-FT_ENHANCEMENT/blob/main/IMAGES/Output.jpg?raw=true “OUTPUT IMAGE”)
+![OUTPUT IMAGE](https://github.com/IvanGarcia7/SR-FT_ENHANCEMENT/blob/main/IMAGES/Output.jpg?raw=true)
 
 
 # Fine-Tuning:
